@@ -1,9 +1,7 @@
 # Fourier-Transform
 
-        Input values:
-            x: data vector with temporal samples
-            Nf: number of samples of the Fourier Transform (x range between 0 and 0.5)
-        
-        Return values:
-            X: data vector with the Fourier Transform samples
-            N: number of samples in the range [0, 1)
+The autor of this function is Marc León Gimeno, telecommunication engineer, specialized in software development and interested in Artificial Intelligence.
+
+This is an implementation of the Fourier Transform in Python.
+
+To use this function, download and save it in the same folder as your project. Then, call this function into your project using: import Fourier_Transform. If you change the name of this file, remember to change tha name when doing the import.
