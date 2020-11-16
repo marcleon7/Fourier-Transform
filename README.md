@@ -5,3 +5,7 @@ The autor of this function is Marc León Gimeno, telecommunication engineer, spe
 This is an implementation of the Fourier Transform in Python.
 
 To use this function, download and save it in the same folder as your project. Then, call this function into your project using: import Fourier_Transform. If you change the name of this file, remember to change tha name when doing the import.
+
+To use this function in your program write: X, N = FourierTransform(x, Nf)
+
+You are able to make all wanted changes and try to improve this code! Good Luck!
